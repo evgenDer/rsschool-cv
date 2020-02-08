@@ -17,3 +17,11 @@
 ### Experience
 * Course progect *"Travel agency automation"*
 
+### Education
+* Currently studying (from 2018) at *Belarusian State University of Informatics and Radioelectronics* in the speciality *'Information Systems and Technologies (in Economics)'*.
+* Completed *HTML+CSS basics courses* from *HTML Academy* in 2020.
+* Completed *C++ white belt* in 2019.
+
+### English
+*B1 Enlish level*
+

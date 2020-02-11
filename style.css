@@ -1,0 +1,29 @@
+img {
+    width: 350px;
+    height: 270px;
+    float: right;
+    margin: 0 0 5px 5px;
+
+}
+
+body {
+    width: 1024px; /* Ширина элемента в пикселах */
+    padding: 10px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+    background: lightgoldenrodyellow; /* Цвет фона */
+    font-size: 18px;;
+   }
+h1{
+    font-size: 36px;
+}
+.header
+{
+    font-size: 46px;
+    text-align: center;
+    vertical-align: center;
+}
+
+
+
+
+
